@@ -1,1 +1,1 @@
-print('hello wolrd')
+print('hello 서울고 wolrd')
